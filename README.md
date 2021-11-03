@@ -11,4 +11,4 @@ its just an app to make use of flashlight
 - [Github](https://github.com/YuvaRajAF/identi_flash/releases/tag/Publish) is the only source where you can get demo of the app download from there.
 
 ## Report build issues
-- You can reach us via [Telegram](https://t.me/Atom_Yr)
+- You can reach me via [Telegram](https://t.me/Atom_Yr)
